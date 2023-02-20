@@ -1,4 +1,4 @@
-### Hi there 👋
+:turtle: I’m currently learning about GCP, GitHub, Python, Terraform and trying to make sense of it all as I have no previous experience in this field and this was a biiiig career change. Bear with me... and wish me luck!
 
 <!--
 **CorinaLaz/CorinaLaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
